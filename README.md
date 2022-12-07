@@ -9,9 +9,9 @@ Zebrafish
 
 ## Venn diagrams for genes both enriched at proximal and distal
 
-| <img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/total%20overlap.png" alt="drawing" width="400"/> | <img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/proximal%20hits.png" alt="drawing" width="400"/> | <img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/distal%20hits.png" alt="drawing" width="400"/> |
-|:--:| :--: | :--: |
-| *Total Overlap* | *Proximal Hits* | *Distal Hits* |
+<p align="center">
+<img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/total%20overlap.png" alt="drawing" width="500"/><em>Total Overlap</em><img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/proximal%20hits.png" alt="drawing" width="500"/><em>Proximal Hits</em><img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/distal%20hits.png" alt="drawing" width="500"/><em>Distal Hits</em>
+</p>
 
 ##  Volcano plot for proteins
 
