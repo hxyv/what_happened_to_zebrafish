@@ -4,8 +4,5 @@
 
 ## Venn diagrams for genes both enriched at proximal and distal
 
-![](https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/total%20overlap.png)
+<img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/total%20overlap.png" alt="drawing" width="300"/><img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/distal%20hits.png" alt="drawing" width="300"/><img src="https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/proximal%20hits.png" alt="drawing" width="300"/>
 
-![](https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/distal%20hits.png)
-
-![](https://github.com/hxyv/what_happened_to_zebrafish/blob/main/Venn/proximal%20hits.png)
