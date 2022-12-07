@@ -1,0 +1,62 @@
+##Databases: KEGG PATHWAY
+##Statistical test method: hypergeometric test / Fisher's exact test
+##FDR correction method: Benjamini and Hochberg
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+Metabolic pathways	KEGG PATHWAY	dre01100	16	1507	1.21391013251e-05	0.000570537762279	nudt9|qdpra|bhmt|ca2|hpdb|nqo1|impa1|fah|gmds|rpia|pah|hgd|gyg1b|ass1|aldh1a2|hsd17b7	http://www.genome.jp/kegg-bin/show_pathway?dre01100/dre:407673%09red/dre:566323%09red/dre:322228%09red/dre:437018%09red/dre:447864%09red/dre:393461%09red/dre:406661%09red/dre:415152%09red/dre:322372%09red/dre:259189%09red/dre:387526%09red/dre:378962%09red/dre:768185%09red/dre:322506%09red/dre:116713%09red/dre:445287%09red
+Tyrosine metabolism	KEGG PATHWAY	dre00350	3	34	0.000191293569874	0.00449539889205	hgd|hpdb|fah	http://www.genome.jp/kegg-bin/show_pathway?dre00350/dre:322372%09red/dre:259189%09red/dre:445287%09red
+Ubiquinone and other terpenoid-quinone biosynthesis	KEGG PATHWAY	dre00130	2	11	0.00068606293361	0.0107483192932	hpdb|nqo1	http://www.genome.jp/kegg-bin/show_pathway?dre00130/dre:445287%09red/dre:322506%09red
+Phenylalanine metabolism	KEGG PATHWAY	dre00360	2	16	0.0013325931341	0.0156579693257	pah|hpdb	http://www.genome.jp/kegg-bin/show_pathway?dre00360/dre:378962%09red/dre:445287%09red
+Biosynthesis of amino acids	KEGG PATHWAY	dre01230	3	88	0.00265943506456	0.0249986896069	pah|rpia|ass1	http://www.genome.jp/kegg-bin/show_pathway?dre01230/dre:407673%09red/dre:447864%09red/dre:378962%09red
+Folate biosynthesis	KEGG PATHWAY	dre00790	2	30	0.00420316476482	0.0329247906578	pah|qdpra	http://www.genome.jp/kegg-bin/show_pathway?dre00790/dre:566323%09red/dre:378962%09red
+Proteasome	KEGG PATHWAY	dre03050	2	56	0.0133151878391	0.0894019754914	psmb10|psma6b	http://www.genome.jp/kegg-bin/show_pathway?dre03050/dre:436862%09red/dre:436816%09red
+Herpes simplex virus 1 infection	KEGG PATHWAY	dre05168	3	188	0.0201767234168	0.109192608779	si:ch73-237c6.1|rela|c3a.2	http://www.genome.jp/kegg-bin/show_pathway?dre05168/dre:100149189%09red/dre:30491%09red/dre:415099%09red
+Phenylalanine, tyrosine and tryptophan biosynthesis	KEGG PATHWAY	dre00400	1	6	0.0209092229578	0.109192608779	pah	http://www.genome.jp/kegg-bin/show_pathway?dre00400/dre:378962%09red
+One carbon pool by folate	KEGG PATHWAY	dre00670	1	18	0.0557518564594	0.229514348622	aldh1l1	http://www.genome.jp/kegg-bin/show_pathway?dre00670/dre:100526683%09red
+Steroid biosynthesis	KEGG PATHWAY	dre00100	1	19	0.0585994081588	0.229514348622	hsd17b7	http://www.genome.jp/kegg-bin/show_pathway?dre00100/dre:768185%09red
+Nitrogen metabolism	KEGG PATHWAY	dre00910	1	19	0.0585994081588	0.229514348622	ca2	http://www.genome.jp/kegg-bin/show_pathway?dre00910/dre:387526%09red
+Arginine biosynthesis	KEGG PATHWAY	dre00220	1	25	0.0755071529297	0.254045477627	ass1	http://www.genome.jp/kegg-bin/show_pathway?dre00220/dre:447864%09red
+Porphyrin and chlorophyll metabolism	KEGG PATHWAY	dre00860	1	31	0.0921143707795	0.254045477627	cp	http://www.genome.jp/kegg-bin/show_pathway?dre00860/dre:84702%09red
+Pentose phosphate pathway	KEGG PATHWAY	dre00030	1	33	0.097584242579	0.254045477627	rpia	http://www.genome.jp/kegg-bin/show_pathway?dre00030/dre:407673%09red
+Starch and sucrose metabolism	KEGG PATHWAY	dre00500	1	36	0.1057279661	0.254045477627	gyg1b	http://www.genome.jp/kegg-bin/show_pathway?dre00500/dre:415152%09red
+Steroid hormone biosynthesis	KEGG PATHWAY	dre00140	1	38	0.111116672443	0.254045477627	hsd17b7	http://www.genome.jp/kegg-bin/show_pathway?dre00140/dre:768185%09red
+Intestinal immune network for IgA production	KEGG PATHWAY	dre04672	1	39	0.113798964423	0.254045477627	ccl25b	http://www.genome.jp/kegg-bin/show_pathway?dre04672/dre:795788%09red
+Retinol metabolism	KEGG PATHWAY	dre00830	1	40	0.116473247273	0.254045477627	aldh1a2	http://www.genome.jp/kegg-bin/show_pathway?dre00830/dre:116713%09red
+Cytosolic DNA-sensing pathway	KEGG PATHWAY	dre04623	1	42	0.121797880154	0.254045477627	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04623/dre:415099%09red
+Fructose and mannose metabolism	KEGG PATHWAY	dre00051	1	43	0.124448277301	0.254045477627	gmds	http://www.genome.jp/kegg-bin/show_pathway?dre00051/dre:393461%09red
+Alanine, aspartate and glutamate metabolism	KEGG PATHWAY	dre00250	1	44	0.127090759547	0.254045477627	ass1	http://www.genome.jp/kegg-bin/show_pathway?dre00250/dre:447864%09red
+Glycine, serine and threonine metabolism	KEGG PATHWAY	dre00260	1	45	0.129725350277	0.254045477627	bhmt	http://www.genome.jp/kegg-bin/show_pathway?dre00260/dre:322228%09red
+Ferroptosis	KEGG PATHWAY	dre04216	1	45	0.129725350277	0.254045477627	cp	http://www.genome.jp/kegg-bin/show_pathway?dre04216/dre:84702%09red
+Tight junction	KEGG PATHWAY	dre04530	2	217	0.141452737265	0.265931146058	ezrb|cldne	http://www.genome.jp/kegg-bin/show_pathway?dre04530/dre:81584%09red/dre:561589%09red
+Cysteine and methionine metabolism	KEGG PATHWAY	dre00270	1	53	0.150520765386	0.272095229737	bhmt	http://www.genome.jp/kegg-bin/show_pathway?dre00270/dre:322228%09red
+Amino sugar and nucleotide sugar metabolism	KEGG PATHWAY	dre00520	1	58	0.163267418808	0.284206247555	gmds	http://www.genome.jp/kegg-bin/show_pathway?dre00520/dre:393461%09red
+RIG-I-like receptor signaling pathway	KEGG PATHWAY	dre04622	1	62	0.17332832341	0.290943971437	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04622/dre:415099%09red
+Regulation of actin cytoskeleton	KEGG PATHWAY	dre04810	2	271	0.19903639873	0.322576232424	ezrb|kng1	http://www.genome.jp/kegg-bin/show_pathway?dre04810/dre:449808%09red/dre:561589%09red
+Mitophagy - animal	KEGG PATHWAY	dre04137	1	83	0.224216458519	0.35127245168	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04137/dre:415099%09red
+Inositol phosphate metabolism	KEGG PATHWAY	dre00562	1	90	0.240480443854	0.354444937289	impa1	http://www.genome.jp/kegg-bin/show_pathway?dre00562/dre:437018%09red
+Adipocytokine signaling pathway	KEGG PATHWAY	dre04920	1	91	0.24277615998	0.354444937289	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04920/dre:415099%09red
+Salmonella infection	KEGG PATHWAY	dre05132	1	97	0.256406975911	0.354444937289	rela	http://www.genome.jp/kegg-bin/show_pathway?dre05132/dre:415099%09red
+Toll-like receptor signaling pathway	KEGG PATHWAY	dre04620	1	97	0.256406975911	0.354444937289	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04620/dre:415099%09red
+Phosphatidylinositol signaling system	KEGG PATHWAY	dre04070	1	113	0.291580232338	0.391550597711	impa1	http://www.genome.jp/kegg-bin/show_pathway?dre04070/dre:437018%09red
+C-type lectin receptor signaling pathway	KEGG PATHWAY	dre04625	1	122	0.310636405128	0.405553084473	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04625/dre:415099%09red
+AGE-RAGE signaling pathway in diabetic complications	KEGG PATHWAY	dre04933	1	127	0.321003078314	0.407760667048	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04933/dre:415099%09red
+Carbon metabolism	KEGG PATHWAY	dre01200	1	132	0.331215473659	0.409661243737	rpia	http://www.genome.jp/kegg-bin/show_pathway?dre01200/dre:407673%09red
+Cell adhesion molecules (CAMs)	KEGG PATHWAY	dre04514	1	140	0.347240066587	0.418468798195	cldne	http://www.genome.jp/kegg-bin/show_pathway?dre04514/dre:81584%09red
+Purine metabolism	KEGG PATHWAY	dre00230	1	154	0.374374063597	0.423176947071	nudt9	http://www.genome.jp/kegg-bin/show_pathway?dre00230/dre:406661%09red
+Phagosome	KEGG PATHWAY	dre04145	1	155	0.37626893269	0.423176947071	c3a.2	http://www.genome.jp/kegg-bin/show_pathway?dre04145/dre:30491%09red
+NOD-like receptor signaling pathway	KEGG PATHWAY	dre04621	1	156	0.378158122914	0.423176947071	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04621/dre:415099%09red
+Apoptosis	KEGG PATHWAY	dre04210	1	167	0.398569190884	0.435645394687	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04210/dre:415099%09red
+Cellular senescence	KEGG PATHWAY	dre04218	1	185	0.430548492465	0.45731166592	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04218/dre:415099%09red
+Neuroactive ligand-receptor interaction	KEGG PATHWAY	dre04080	2	499	0.447110803294	0.45731166592	kng1|c3a.2	http://www.genome.jp/kegg-bin/show_pathway?dre04080/dre:30491%09red/dre:449808%09red
+Cytokine-cytokine receptor interaction	KEGG PATHWAY	dre04060	1	195	0.447581630474	0.45731166592	ccl25b	http://www.genome.jp/kegg-bin/show_pathway?dre04060/dre:795788%09red
+MAPK signaling pathway	KEGG PATHWAY	dre04010	1	373	0.678780255212	0.678780255212	rela	http://www.genome.jp/kegg-bin/show_pathway?dre04010/dre:415099%09red
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------

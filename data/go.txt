@@ -1,0 +1,164 @@
+##Databases: Gene Ontology
+##Statistical test method: hypergeometric test / Fisher's exact test
+##FDR correction method: Benjamini and Hochberg
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+intermediate filament	Gene Ontology	GO:0005882	4	73	4.03913876753e-07	6.01831676362e-05	krt94|krt93|zgc:136930|vim	http://amigo.geneontology.org/amigo/term/GO:0005882
+keratinocyte differentiation	Gene Ontology	GO:0030216	2	7	2.17628730445e-05	0.00162133404181	anxa1c|capn12	http://amigo.geneontology.org/amigo/term/GO:0030216
+aldehyde dehydrogenase (NAD+) activity	Gene Ontology	GO:0004029	2	10	3.98402872597e-05	0.00197873426723	aldh1l1|aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0004029
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	Gene Ontology	GO:0016620	2	23	0.000179948428692	0.00580650512334	aldh1l1|aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0016620
+hyaluronic acid binding	Gene Ontology	GO:0005540	2	24	0.000194849165213	0.00580650512334	hapln1a|vcanb	http://amigo.geneontology.org/amigo/term/GO:0005540
+cellular response to xenobiotic stimulus	Gene Ontology	GO:0071466	2	31	0.000315477234024	0.0078343513116	tgfbi|ca2	http://amigo.geneontology.org/amigo/term/GO:0071466
+one-carbon metabolic process	Gene Ontology	GO:0006730	2	39	0.000488040384272	0.00922800192733	ca2|aldh1l1	http://amigo.geneontology.org/amigo/term/GO:0006730
+extracellular matrix	Gene Ontology	GO:0031012	3	193	0.000495463190729	0.00922800192733	hapln1a|tgfbi|vcanb	http://amigo.geneontology.org/amigo/term/GO:0031012
+skeletal system development	Gene Ontology	GO:0001501	2	57	0.00100945356478	0.0167120645725	hapln1a|vcanb	http://amigo.geneontology.org/amigo/term/GO:0001501
+fin regeneration	Gene Ontology	GO:0031101	2	77	0.0018001250055	0.0268218625819	hapln1a|aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0031101
+central nervous system development	Gene Ontology	GO:0007417	2	101	0.00303355712811	0.0271354852073	hapln1a|vcanb	http://amigo.geneontology.org/amigo/term/GO:0007417
+cell adhesion	Gene Ontology	GO:0007155	3	383	0.00345243400505	0.0271354852073	hapln1a|tgfbi|vcanb	http://amigo.geneontology.org/amigo/term/GO:0007155
+embryonic viscerocranium morphogenesis	Gene Ontology	GO:0048703	2	109	0.00351190494679	0.0271354852073	aldh1l1|aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0048703
+structural molecule activity	Gene Ontology	GO:0005198	2	123	0.00442798945854	0.0271354852073	krt94|krt93	http://amigo.geneontology.org/amigo/term/GO:0005198
+response to interleukin-1	Gene Ontology	GO:0070555	1	5	0.004760233709	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0070555
+intestinal epithelial cell differentiation	Gene Ontology	GO:0060575	1	5	0.004760233709	0.0271354852073	agr2	http://amigo.geneontology.org/amigo/term/GO:0060575
+hypotonic salinity response	Gene Ontology	GO:0042539	1	5	0.004760233709	0.0271354852073	ca2	http://amigo.geneontology.org/amigo/term/GO:0042539
+positive regulation of wound healing	Gene Ontology	GO:0090303	1	5	0.004760233709	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0090303
+extracellular space	Gene Ontology	GO:0005615	4	897	0.00523835042764	0.0271354852073	tgfbi|si:dkeyp-93a5.3|anxa1c|ccl25b	http://amigo.geneontology.org/amigo/term/GO:0005615
+positive regulation of vesicle fusion	Gene Ontology	GO:0031340	1	6	0.00555148809467	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0031340
+regulation of microtubule motor activity	Gene Ontology	GO:2000574	1	6	0.00555148809467	0.0271354852073	myh11b	http://amigo.geneontology.org/amigo/term/GO:2000574
+negative regulation of exocytosis	Gene Ontology	GO:0045920	1	6	0.00555148809467	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0045920
+granulocyte chemotaxis	Gene Ontology	GO:0071621	1	6	0.00555148809467	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0071621
+regulation of leukocyte migration	Gene Ontology	GO:0002685	1	6	0.00555148809467	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0002685
+cellular response to vascular endothelial growth factor stimulus	Gene Ontology	GO:0035924	1	7	0.00634213854619	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0035924
+paraxial mesoderm development	Gene Ontology	GO:0048339	1	7	0.00634213854619	0.0271354852073	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0048339
+positive regulation of cell-substrate adhesion	Gene Ontology	GO:0010811	1	7	0.00634213854619	0.0271354852073	agr2	http://amigo.geneontology.org/amigo/term/GO:0010811
+inflammatory response	Gene Ontology	GO:0006954	2	153	0.00672057664717	0.0271354852073	anxa1c|ccl25b	http://amigo.geneontology.org/amigo/term/GO:0006954
+lymphoid lineage cell migration into thymus	Gene Ontology	GO:0097535	1	8	0.00713218550534	0.0271354852073	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0097535
+cellular response to glucocorticoid stimulus	Gene Ontology	GO:0071385	1	8	0.00713218550534	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0071385
+cellular response to hydrogen peroxide	Gene Ontology	GO:0070301	1	8	0.00713218550534	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0070301
+positive regulation of cell migration involved in sprouting angiogenesis	Gene Ontology	GO:0090050	1	8	0.00713218550534	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0090050
+regulation of retinoic acid receptor signaling pathway	Gene Ontology	GO:0048385	1	8	0.00713218550534	0.0271354852073	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0048385
+digestive system development	Gene Ontology	GO:0055123	1	8	0.00713218550534	0.0271354852073	bhmt	http://amigo.geneontology.org/amigo/term/GO:0055123
+regulation of hormone secretion	Gene Ontology	GO:0046883	1	8	0.00713218550534	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0046883
+face morphogenesis	Gene Ontology	GO:0060325	1	9	0.00792162941356	0.0271354852073	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0060325
+phospholipase inhibitor activity	Gene Ontology	GO:0004859	1	9	0.00792162941356	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0004859
+pronephric duct morphogenesis	Gene Ontology	GO:0039023	1	9	0.00792162941356	0.0271354852073	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0039023
+methionine biosynthetic process	Gene Ontology	GO:0009086	1	9	0.00792162941356	0.0271354852073	bhmt	http://amigo.geneontology.org/amigo/term/GO:0009086
+central nervous system myelination	Gene Ontology	GO:0022010	1	9	0.00792162941356	0.0271354852073	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0022010
+response to drug	Gene Ontology	GO:0042493	1	9	0.00792162941356	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0042493
+response to X-ray	Gene Ontology	GO:0010165	1	9	0.00792162941356	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0010165
+positive regulation of G1/S transition of mitotic cell cycle	Gene Ontology	GO:1900087	1	10	0.00871047071201	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:1900087
+gliogenesis	Gene Ontology	GO:0042063	1	10	0.00871047071201	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0042063
+insulin secretion	Gene Ontology	GO:0030073	1	10	0.00871047071201	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0030073
+L-phenylalanine catabolic process	Gene Ontology	GO:0006559	1	10	0.00871047071201	0.0271354852073	hgd	http://amigo.geneontology.org/amigo/term/GO:0006559
+hepatocyte differentiation	Gene Ontology	GO:0070365	1	10	0.00871047071201	0.0271354852073	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0070365
+oxidoreductase activity	Gene Ontology	GO:0016491	3	537	0.00874163281847	0.0271354852073	hgd|aldh1l1|aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0016491
+sodium ion import across plasma membrane	Gene Ontology	GO:0098719	1	11	0.00949870984153	0.0272174570459	ca2	http://amigo.geneontology.org/amigo/term/GO:0098719
+arachidonic acid secretion	Gene Ontology	GO:0050482	1	11	0.00949870984153	0.0272174570459	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0050482
+regulation of pH	Gene Ontology	GO:0006885	1	11	0.00949870984153	0.0272174570459	ca2	http://amigo.geneontology.org/amigo/term/GO:0006885
+hindbrain morphogenesis	Gene Ontology	GO:0021575	1	11	0.00949870984153	0.0272174570459	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0021575
+myelination in peripheral nervous system	Gene Ontology	GO:0022011	1	12	0.0102863472427	0.0283826988733	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0022011
+camera-type eye morphogenesis	Gene Ontology	GO:0048593	1	12	0.0102863472427	0.0283826988733	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0048593
+response to peptide hormone	Gene Ontology	GO:0043434	1	13	0.0110733833556	0.0284471399998	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0043434
+extracellular matrix binding	Gene Ontology	GO:0050840	1	13	0.0110733833556	0.0284471399998	tgfbi	http://amigo.geneontology.org/amigo/term/GO:0050840
+peptide cross-linking	Gene Ontology	GO:0018149	1	13	0.0110733833556	0.0284471399998	tgm1l4	http://amigo.geneontology.org/amigo/term/GO:0018149
+protein-glutamine gamma-glutamyltransferase activity	Gene Ontology	GO:0003810	1	13	0.0110733833556	0.0284471399998	tgm1l4	http://amigo.geneontology.org/amigo/term/GO:0003810
+cholesterol biosynthetic process	Gene Ontology	GO:0006695	1	14	0.0118598186203	0.0294518829071	hsd17b7	http://amigo.geneontology.org/amigo/term/GO:0006695
+retinol metabolic process	Gene Ontology	GO:0042572	1	14	0.0118598186203	0.0294518829071	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0042572
+oxidation-reduction process	Gene Ontology	GO:0055114	3	614	0.0125353580915	0.0299079740948	hgd|aldh1l1|aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0055114
+digestive tract morphogenesis	Gene Ontology	GO:0048546	1	15	0.0126456534763	0.0299079740948	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0048546
+DNA duplex unwinding	Gene Ontology	GO:0032508	1	15	0.0126456534763	0.0299079740948	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0032508
+collagen binding	Gene Ontology	GO:0005518	1	16	0.013430888363	0.0312687869702	tgfbi	http://amigo.geneontology.org/amigo/term/GO:0005518
+positive regulation of T cell proliferation	Gene Ontology	GO:0042102	1	17	0.0142155237194	0.0325863543721	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0042102
+growth factor binding	Gene Ontology	GO:0019838	1	19	0.0157829975954	0.0342820793297	fgfbp2a	http://amigo.geneontology.org/amigo/term/GO:0019838
+extracellular region	Gene Ontology	GO:0005576	3	671	0.0158689468179	0.0342820793297	muc5.2|agr2|ccl25b	http://amigo.geneontology.org/amigo/term/GO:0005576
+type B pancreatic cell development	Gene Ontology	GO:0003323	1	20	0.0165658369915	0.0342820793297	bhmt	http://amigo.geneontology.org/amigo/term/GO:0003323
+carbonate dehydratase activity	Gene Ontology	GO:0004089	1	20	0.0165658369915	0.0342820793297	ca2	http://amigo.geneontology.org/amigo/term/GO:0004089
+regulation of inflammatory response	Gene Ontology	GO:0050727	1	20	0.0165658369915	0.0342820793297	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0050727
+retinoic acid receptor signaling pathway	Gene Ontology	GO:0048384	1	20	0.0165658369915	0.0342820793297	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0048384
+negative regulation of cell death	Gene Ontology	GO:0060548	1	20	0.0165658369915	0.0342820793297	agr2	http://amigo.geneontology.org/amigo/term/GO:0060548
+calcium ion binding	Gene Ontology	GO:0005509	3	691	0.0171467478511	0.0349305907152	anxa1c|capn12|vcanb	http://amigo.geneontology.org/amigo/term/GO:0005509
+cellular amino acid metabolic process	Gene Ontology	GO:0006520	1	21	0.0173480786102	0.0349305907152	hgd	http://amigo.geneontology.org/amigo/term/GO:0006520
+actin cytoskeleton reorganization	Gene Ontology	GO:0031532	1	22	0.0181297228889	0.0350821910447	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0031532
+cell adhesion molecule binding	Gene Ontology	GO:0050839	1	22	0.0181297228889	0.0350821910447	tgfbi	http://amigo.geneontology.org/amigo/term/GO:0050839
+calcium-dependent cysteine-type endopeptidase activity	Gene Ontology	GO:0004198	1	22	0.0181297228889	0.0350821910447	capn12	http://amigo.geneontology.org/amigo/term/GO:0004198
+phagocytosis	Gene Ontology	GO:0006909	1	23	0.0189107702647	0.0356671489803	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0006909
+hydro-lyase activity	Gene Ontology	GO:0016836	1	23	0.0189107702647	0.0356671489803	ca2	http://amigo.geneontology.org/amigo/term/GO:0016836
+glomerular visceral epithelial cell development	Gene Ontology	GO:0072015	1	24	0.0196912211746	0.0357803896952	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0072015
+wound healing	Gene Ontology	GO:0042060	1	24	0.0196912211746	0.0357803896952	vim	http://amigo.geneontology.org/amigo/term/GO:0042060
+muscle fiber development	Gene Ontology	GO:0048747	1	24	0.0196912211746	0.0357803896952	tgfbi	http://amigo.geneontology.org/amigo/term/GO:0048747
+response to estradiol	Gene Ontology	GO:0032355	1	25	0.0204710760549	0.0367492811107	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0032355
+lymphocyte chemotaxis	Gene Ontology	GO:0048247	1	30	0.0243614252724	0.0422075856464	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0048247
+CCR chemokine receptor binding	Gene Ontology	GO:0048020	1	30	0.0243614252724	0.0422075856464	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0048020
+cellular response to interferon-gamma	Gene Ontology	GO:0071346	1	30	0.0243614252724	0.0422075856464	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0071346
+cell population proliferation	Gene Ontology	GO:0008283	1	32	0.0259134079979	0.0433831212549	tgfbi	http://amigo.geneontology.org/amigo/term/GO:0008283
+monocyte chemotaxis	Gene Ontology	GO:0002548	1	32	0.0259134079979	0.0433831212549	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0002548
+cellular response to interleukin-1	Gene Ontology	GO:0071347	1	32	0.0259134079979	0.0433831212549	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0071347
+cellular response to tumor necrosis factor	Gene Ontology	GO:0071356	1	33	0.0266885103214	0.0441843115321	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0071356
+pectoral fin development	Gene Ontology	GO:0033339	1	38	0.0305551488894	0.0500298591706	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0033339
+gastrulation	Gene Ontology	GO:0007369	1	40	0.0320976716393	0.0519842725462	aldh1l1	http://amigo.geneontology.org/amigo/term/GO:0007369
+dioxygenase activity	Gene Ontology	GO:0051213	1	42	0.0336378380439	0.0538928803069	hgd	http://amigo.geneontology.org/amigo/term/GO:0051213
+pancreas development	Gene Ontology	GO:0031016	1	45	0.0359436770485	0.0569745519173	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0031016
+peptidase activity	Gene Ontology	GO:0008233	2	379	0.0365501800375	0.0569787106888	si:dkeyp-93a5.3|capn12	http://amigo.geneontology.org/amigo/term/GO:0008233
+chemokine-mediated signaling pathway	Gene Ontology	GO:0070098	1	46	0.0367111156116	0.0569787106888	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0070098
+biosynthetic process	Gene Ontology	GO:0009058	1	48	0.0382442336597	0.0581468450541	aldh1l1	http://amigo.geneontology.org/amigo/term/GO:0009058
+integrin binding	Gene Ontology	GO:0005178	1	48	0.0382442336597	0.0581468450541	tgfbi	http://amigo.geneontology.org/amigo/term/GO:0005178
+chemokine activity	Gene Ontology	GO:0008009	1	51	0.0405395194758	0.0610140242615	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0008009
+cell-cell signaling	Gene Ontology	GO:0007267	1	57	0.0451143249934	0.0665547962774	fgfbp2a	http://amigo.geneontology.org/amigo/term/GO:0007267
+endocrine pancreas development	Gene Ontology	GO:0031018	1	57	0.0451143249934	0.0665547962774	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0031018
+myosin complex	Gene Ontology	GO:0016459	1	59	0.0466346012613	0.0681230939994	myh11b	http://amigo.geneontology.org/amigo/term/GO:0016459
+sodium ion transport	Gene Ontology	GO:0006814	1	61	0.0481525537623	0.0696575777727	ca2	http://amigo.geneontology.org/amigo/term/GO:0006814
+cytoplasm	Gene Ontology	GO:0005737	6	3445	0.0493148397001	0.0706529914934	bhmt|ca2|aldh1l1|capn12|hgd|anxa1c	http://amigo.geneontology.org/amigo/term/GO:0005737
+neutrophil chemotaxis	Gene Ontology	GO:0030593	1	65	0.0511815010757	0.0726289872408	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0030593
+calcium-dependent phospholipid binding	Gene Ontology	GO:0005544	1	66	0.051937290863	0.0730061918734	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0005544
+motor activity	Gene Ontology	GO:0003774	1	68	0.0534471369564	0.0740915405716	myh11b	http://amigo.geneontology.org/amigo/term/GO:0003774
+hydrolase activity	Gene Ontology	GO:0016787	3	1086	0.0540602054897	0.0740915405716	aldh1l1|si:dkeyp-93a5.3|capn12	http://amigo.geneontology.org/amigo/term/GO:0016787
+pronephros development	Gene Ontology	GO:0048793	1	69	0.0542011941094	0.0740915405716	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0048793
+positive regulation of GTPase activity	Gene Ontology	GO:0043547	1	77	0.0602129256609	0.0808263596709	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0043547
+regulation of cell shape	Gene Ontology	GO:0008360	1	77	0.0602129256609	0.0808263596709	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0008360
+positive regulation of ERK1 and ERK2 cascade	Gene Ontology	GO:0070374	1	82	0.0639516111101	0.0850784826376	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0070374
+somitogenesis	Gene Ontology	GO:0001756	1	85	0.0661879643051	0.0872743954111	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0001756
+proteolysis	Gene Ontology	GO:0006508	2	537	0.0678731857928	0.0887114445889	si:dkeyp-93a5.3|capn12	http://amigo.geneontology.org/amigo/term/GO:0006508
+anterior/posterior pattern specification	Gene Ontology	GO:0009952	1	92	0.0713861922649	0.0924916751953	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0009952
+regulation of cell population proliferation	Gene Ontology	GO:0042127	1	95	0.0736054901466	0.0945449830332	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0042127
+protein homodimerization activity	Gene Ontology	GO:0042803	1	98	0.0758196957889	0.096556706603	agr2	http://amigo.geneontology.org/amigo/term/GO:0042803
+neural crest cell migration	Gene Ontology	GO:0001755	1	99	0.0765566346638	0.096668970889	aldh1l1	http://amigo.geneontology.org/amigo/term/GO:0001755
+liver development	Gene Ontology	GO:0001889	1	103	0.0794987528434	0.0995404552409	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0001889
+hormone activity	Gene Ontology	GO:0005179	1	104	0.0802328751255	0.0996224866142	muc5.2	http://amigo.geneontology.org/amigo/term/GO:0005179
+endoplasmic reticulum	Gene Ontology	GO:0005783	2	595	0.0810111296728	0.0997575067872	agr2|hsd17b7	http://amigo.geneontology.org/amigo/term/GO:0005783
+determination of left/right symmetry	Gene Ontology	GO:0007368	1	108	0.0831637475851	0.101568839264	aldh1a2	http://amigo.geneontology.org/amigo/term/GO:0007368
+cysteine-type peptidase activity	Gene Ontology	GO:0008234	1	120	0.0919026686372	0.111191524479	capn12	http://amigo.geneontology.org/amigo/term/GO:0008234
+cell surface receptor signaling pathway	Gene Ontology	GO:0007166	1	121	0.0926272914679	0.111191524479	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0007166
+methylation	Gene Ontology	GO:0032259	1	122	0.0933513591915	0.111191524479	bhmt	http://amigo.geneontology.org/amigo/term/GO:0032259
+serine-type peptidase activity	Gene Ontology	GO:0008236	1	124	0.0947978309475	0.111191524479	si:dkeyp-93a5.3	http://amigo.geneontology.org/amigo/term/GO:0008236
+extracellular matrix organization	Gene Ontology	GO:0030198	1	124	0.0947978309475	0.111191524479	tgfbi	http://amigo.geneontology.org/amigo/term/GO:0030198
+lyase activity	Gene Ontology	GO:0016829	1	125	0.0955202357942	0.111191524479	ca2	http://amigo.geneontology.org/amigo/term/GO:0016829
+methyltransferase activity	Gene Ontology	GO:0008168	1	147	0.111273829551	0.128416696775	bhmt	http://amigo.geneontology.org/amigo/term/GO:0008168
+biological_process	Gene Ontology	GO:0008150	3	1483	0.112041413294	0.128416696775	krt94|krt93|zgc:136930	http://amigo.geneontology.org/amigo/term/GO:0008150
+zinc ion binding	Gene Ontology	GO:0008270	2	757	0.12130462812	0.137972439617	ca2|bhmt	http://amigo.geneontology.org/amigo/term/GO:0008270
+serine-type endopeptidase activity	Gene Ontology	GO:0004252	1	182	0.135794831554	0.15328355986	si:dkeyp-93a5.3	http://amigo.geneontology.org/amigo/term/GO:0004252
+negative regulation of apoptotic process	Gene Ontology	GO:0043066	1	205	0.151553556785	0.169785563617	capn12	http://amigo.geneontology.org/amigo/term/GO:0043066
+actin filament binding	Gene Ontology	GO:0051015	1	217	0.159665613428	0.177538629856	myh11b	http://amigo.geneontology.org/amigo/term/GO:0051015
+heart development	Gene Ontology	GO:0007507	1	236	0.172357629748	0.190231754314	aldh1l1	http://amigo.geneontology.org/amigo/term/GO:0007507
+transferase activity, transferring glycosyl groups	Gene Ontology	GO:0016757	1	248	0.180278602854	0.197511116363	gyg1b	http://amigo.geneontology.org/amigo/term/GO:0016757
+immune response	Gene Ontology	GO:0006955	1	263	0.190077514669	0.206726640042	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0006955
+actin binding	Gene Ontology	GO:0003779	1	300	0.213769731565	0.23080934785	myh11b	http://amigo.geneontology.org/amigo/term/GO:0003779
+catalytic activity	Gene Ontology	GO:0003824	1	466	0.312119238508	0.334573859983	aldh1l1	http://amigo.geneontology.org/amigo/term/GO:0003824
+transferase activity	Gene Ontology	GO:0016740	2	1553	0.352500375889	0.375161114339	bhmt|gyg1b	http://amigo.geneontology.org/amigo/term/GO:0016740
+metal ion binding	Gene Ontology	GO:0046872	3	2709	0.367164922281	0.387996974609	ca2|tgm1l4|bhmt	http://amigo.geneontology.org/amigo/term/GO:0046872
+cytosol	Gene Ontology	GO:0005829	1	861	0.500938896968	0.525633067946	aldh1l1	http://amigo.geneontology.org/amigo/term/GO:0005829
+G protein-coupled receptor signaling pathway	Gene Ontology	GO:0007186	1	914	0.5221209277	0.544028099492	ccl25b	http://amigo.geneontology.org/amigo/term/GO:0007186
+nucleotide binding	Gene Ontology	GO:0000166	1	1548	0.717232330267	0.742136230624	myh11b	http://amigo.geneontology.org/amigo/term/GO:0000166
+cellular_component	Gene Ontology	GO:0005575	1	1597	0.72859603231	0.748695233201	tgm1l4	http://amigo.geneontology.org/amigo/term/GO:0005575
+ATP binding	Gene Ontology	GO:0005524	1	1658	0.74213095615	0.757380222372	myh11b	http://amigo.geneontology.org/amigo/term/GO:0005524
+plasma membrane	Gene Ontology	GO:0005886	1	2132	0.827338505384	0.83859481158	anxa1c	http://amigo.geneontology.org/amigo/term/GO:0005886
+integral component of membrane	Gene Ontology	GO:0016021	1	5893	0.994429047754	0.997274079636	hsd17b7	http://amigo.geneontology.org/amigo/term/GO:0016021
+membrane	Gene Ontology	GO:0016020	1	6613	0.997274079636	0.997274079636	hsd17b7	http://amigo.geneontology.org/amigo/term/GO:0016020
+
+--------------------
