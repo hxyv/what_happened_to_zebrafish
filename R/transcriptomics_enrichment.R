@@ -28,6 +28,7 @@ write.table(enriched_trans, "data/enriched_trans.csv",
             row.names = FALSE, 
             col.names = FALSE, 
             quote = FALSE)
+
 write.table(proximal_enriched_trans, "data/proximal_enriched_trans.csv",
             sep = ",", 
             row.names = FALSE, 

@@ -18,5 +18,5 @@ p<-ggplot(kegg_top,aes(x=richFactor,y=Term)) +
     scale_y_discrete(labels = function(x) str_wrap(x, width = 30))
 
 print(p)
-ggsave("graph/kegg.pdf")
+ggsave("graph/kegg.png")
 dev.off()

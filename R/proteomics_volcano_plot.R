@@ -22,5 +22,5 @@ p <- qplot(x = prot$protlogFC, y = prot$protlogFDR, xlab = 'logFC', ylab = '-log
           panel.grid = element_blank()) 
 
 print(p)
-ggsave("graph/prot_volcano.pdf")
+ggsave("graph/prot_volcano.png")
 dev.off()
