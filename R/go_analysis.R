@@ -11,5 +11,5 @@ p <- ggplot(go_enrich_top, aes(x = -log10(Corrected.P.Value), y = Term)) +
     scale_y_discrete(labels = function(x) str_wrap(x, width = 30))
 
 print(p)
-ggsave("graph/go.pdf")
+ggsave("graph/go.png")
 dev.off()
